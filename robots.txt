@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kchen9x7.github.io/sitemap.xml
+Sitemap: https://kchen9x7.github.io/blog//sitemap.xml
